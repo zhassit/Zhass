@@ -1,2 +1,1 @@
 # Zhass
-publ
